@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hii, Victor👋🏽👩🏾‍💻
+![octo](https://github.com/ddddami/ddddami/assets/82976159/98ef782e-f332-4113-b581-46651d62f30c)
 
-<!--
-**vviko-ko/vviko-ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End developer specializing in building seamless web experiences.
 
-Here are some ideas to get you started:
+🚀 I excel at crafting fast and exceptional user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡️ With an eye for aesthetics and attention to detail, I create captivating user interfaces that enhance the overall user experience. Whether it's responsive layouts, intuitive interactions, or delightful animations, I strive to make every interaction a joy.
+
+- 🌱 I’m currently learning Javascript 
+Skills: 
+- 🎨 Frontend: JavaScript, HTML, CSS,Bootstrap
+
+## Find me around the web:
+- Sharing updates on [Twitter](https;//twitter.com/vviko-ko)
