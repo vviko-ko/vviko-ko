@@ -9,7 +9,7 @@ Front-End developer specializing in building seamless web experiences.
 
 - 🌱 I’m currently learning Javascript 
 Skills: 
-- 🎨 Frontend: JavaScript, HTML, CSS,Bootstrap
+- 🎨 Frontend: HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACTjs.
 
 ## Find me around the web:
 - Sharing updates on [Twitter](https;//twitter.com/vviko-ko)
