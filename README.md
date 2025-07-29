@@ -9,7 +9,7 @@ Front-End developer specializing in building seamless web experiences.
 
 - 🌱 I’m currently learning Typescript
 Skills: 
-- 🎨 Frontend: HTML, CSS, Bootstrap,Tailwind, Javascript, Typescript, Reactjs, Next js
+- 🎨 Frontend: HTML, CSS, Bootstrap,Tailwind, Javascript, Typescript, Reactjs, Next js, PHP.
 
 ## Find me around the web:
 - Sharing updates on [Twitter](https;//twitter.com/vviko-ko)
