@@ -7,9 +7,8 @@ Front-End developer specializing in building seamless web experiences.
 
 ⚡️ With an eye for aesthetics and attention to detail, I create captivating user interfaces that enhance the overall user experience. Whether it's responsive layouts, intuitive interactions, or delightful animations, I strive to make every interaction a joy.
 
-- 🌱 I’m currently learning Typescript
 Skills: 
-- 🎨 Frontend: HTML, CSS, Bootstrap,Tailwind, Javascript, Typescript, Reactjs, Next js, PHP.
+- 🎨 Frontend: HTML, CSS, Bootstrap,Tailwind, Javascript, Typescript, Reactjs, Next js, PHP, Vuejs, Nuxt.
 
 ## Find me around the web:
 - Sharing updates on [Twitter](https;//twitter.com/vviko-ko)
